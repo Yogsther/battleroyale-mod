@@ -7,3 +7,7 @@ commands:
    start:
      description: Get a nice message
      usage: start
+
+   initiate:
+     description: Initiate the plugin.
+     usage: initate
