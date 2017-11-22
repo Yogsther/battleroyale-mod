@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="battleroyale-mod:jar">
+    <output-path>$PROJECT_DIR$/JARs</output-path>
+    <root id="archive" name="battleroyale-mod.jar">
+      <element id="module-output" name="battleroyale-mod" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/module/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

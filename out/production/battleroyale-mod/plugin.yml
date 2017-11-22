@@ -1,0 +1,9 @@
+name: Battle-Royale
+version: 0.1
+main: Main
+description: Battle it out with your friend with this awesome plugin!
+
+commands:
+   start:
+     description: Get a nice message
+     usage: start
